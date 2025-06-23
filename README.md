@@ -19,8 +19,8 @@ I'm a full-stack developer with a passion for clean frontend design and thoughtf
 
 ### 🌍 Let's Connect
 
--   [Portfolio Website](https://yourwebsite.com)
--   [LinkedIn](https://linkedin.com/in/shubhdeepsarkar)
+-   [Portfolio Website](https://sarkarshubhdeep.vercel.app/)
+-   [LinkedIn](https://www.linkedin.com/in/shubhdeep-sarkar/)
 -   [GitHub](https://github.com/SarkarShubhdeep)
 
 ---
