@@ -21,7 +21,7 @@ I'm a full-stack developer with a passion for clean frontend design and thoughtf
 
 -   [Portfolio Website](https://yourwebsite.com)
 -   [LinkedIn](https://linkedin.com/in/shubhdeepsarkar)
--   [GitHub](https://github.com/shubhdeep)
+-   [GitHub](https://github.com/SarkarShubhdeep)
 
 ---
 
