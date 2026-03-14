@@ -22,7 +22,6 @@ I'm a full-stack developer with a passion for clean frontend design and thoughtf
 
 -   [Portfolio Website](https://portfolio-x2-grim.vercel.app/) 
 -   [LinkedIn](https://www.linkedin.com/in/shubhdeep-sarkar/)
--   [GitHub](https://github.com/SarkarShubhdeep)
 
 ---
 
